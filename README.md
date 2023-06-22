@@ -19,7 +19,6 @@ const yan = {
 }
 ```
 
-
 <h3 align="center"><samp> ⚡ Techs </samp></h3>
 
 <div align='center'>
@@ -30,8 +29,6 @@ const yan = {
 
 </div>
 <br />
-
----
 
 <h3 align="center"><samp> ⚡ Find me on </samp></h3>
 <br />
@@ -47,12 +44,12 @@ const yan = {
           src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
   </a>	  	  
 </div>
+<br />
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=yanettr&show_icons=true&locale=en&layout=compact" alt="yan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yanettr&show_icons=true&locale=en" alt="yan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yanettr&" alt="
-yan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yanettr&" alt="yan" /></p>
 
 
