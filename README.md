@@ -11,12 +11,13 @@
 ```javascript
 const yan = {
   currentFocus: "Front end Developer and teacher of children",
-  code: ["Javascript", "HTML5", "CSS" ...],
+  code: ["Javascript", "HTML5", "CSS"],
   tools: ["Git", "Github", "Firebase", "Figma", "Bootstrap", "Trello"],
   architecture: ["Progressive web applications", "Single page applications"],
   challenge: "I love learning something new every day.",
   freetime: "I love walking with my pets or reading a good book while eating tangerines."
-}
+};
+
 ```
 
 <h3 align="center"><samp> ⚡ Techs </samp></h3>
