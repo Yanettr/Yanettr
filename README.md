@@ -46,6 +46,12 @@ const yan = {
   </a>	  	  
 </div>
 <br />
+<p align="center">   
+  Visitors<br>
+  <img src="https://profile-counter.glitch.me/yanettr/count.svg" />  
+</p>  
+
+
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=yanettr&show_icons=true&locale=en&layout=compact" alt="yan" /></p>
 
