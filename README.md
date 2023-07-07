@@ -21,7 +21,7 @@ const yan = {
 
 ```
 
-<h3 align="center"><samp> ⚡ Techs </samp></h3>
+<h3 align="center"><samp>  Techs </samp></h3>
 
 <div align='center'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width='30' />
@@ -32,7 +32,7 @@ const yan = {
 </div>
 <br />
 
-<h3 align="center"><samp> ⚡ Find me on </samp></h3>
+<h3 align="center"><samp>  Find me on </samp></h3>
 <br />
 <div align="center">
   <!-- Gmail -->
@@ -47,13 +47,18 @@ const yan = {
   </a>	  	  
 </div>
 <br />
-<p align="center">   
-  Visitors<br>
-  <img src="https://profile-counter.glitch.me/yanettr/count.svg" />  
+
+<p align="center">
+ 
+  <a href="https://github.com/LouArlo">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Yanettr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/Yanettr?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Yanettr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/Yanettr/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Yanettr&style=for-the-badge&color=DFD947&labelColor=EEE517&logo=star/custom-icon-badges.demolab.com/github"/></a>
 </p>  
 
-
-
+<br />
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=yanettr&show_icons=true&locale=en&layout=compact" alt="yan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yanettr&show_icons=true&locale=en" alt="yan" /></p>
