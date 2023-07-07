@@ -7,6 +7,7 @@
 <p align="center"> <samp> A Front-end Developer student from Laboratoria's Bootcamp </samp></p>
 
 <br />
+
 ```javascript
 const yan = {
   currentFocus: "Front end Developer and teacher of children",
@@ -26,6 +27,7 @@ const yan = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='30' />
 <br />
 </div>
+
 <br />
 
 <h3 align="center"><samp>  Find me on </samp></h3>
