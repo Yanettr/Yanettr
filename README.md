@@ -48,7 +48,7 @@ const yan = {
 
 <p align="center">
  
-  <a href="https://github.com/LouArlo">
+  <a href="https://github.com/Yanettr">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Yanettr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Yanettr?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Yanettr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -58,9 +58,9 @@ const yan = {
 
 <br />
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=yanettr&show_icons=true&locale=en&layout=compact" alt="yan" /></p>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yanettr&show_icons=true&locale=en" alt="yan" /></p>
-
+<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yanettr&" alt="yan" /></p>
 
 
