@@ -7,7 +7,6 @@
 <p align="center"> <samp> A Front-end Developer student from Laboratoria's Bootcamp </samp></p>
 
 <br />
-
 ```javascript
 const yan = {
   currentFocus: "Front end Developer and teacher of children",
@@ -16,19 +15,16 @@ const yan = {
   architecture: ["Progressive web applications", "Single page applications"],
   areas: ["Websites", "Artificial Intelligence"],
   challenge: "I love learning something new every day.",
- 
 };
 
 ```
 
 <h3 align="center"><samp>  Techs </samp></h3>
-
 <div align='center'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width='30' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width='30' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='30' />
 <br />
-
 </div>
 <br />
 
