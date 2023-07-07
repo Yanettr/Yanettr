@@ -12,10 +12,11 @@
 const yan = {
   currentFocus: "Front end Developer and teacher of children",
   code: ["Javascript", "HTML5", "CSS"],
-  tools: ["Git", "Github", "Firebase", "Figma", "Bootstrap", "Trello"],
+  tools: ["Git", "Github", "Firebase", "Figma", "Bootstrap5", "Trello"],
   architecture: ["Progressive web applications", "Single page applications"],
+  areas: ["Websites", "Artificial Intelligence"]
   challenge: "I love learning something new every day.",
-  freetime: "I love walking with my pets or reading a good book while eating tangerines."
+ 
 };
 
 ```
