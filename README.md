@@ -50,7 +50,9 @@ const yan = {
  
   <a href="https://github.com/Yanettr">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Yanettr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  
+   <a href="https://github.com/Yanettr/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Yanettr&style=for-the-badge&color=DFD947&labelColor=EEE517&logo=star/custom-icon-badges.demolab.com/github"/></a>
+</p>  
  
 
 <br />
