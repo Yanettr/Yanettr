@@ -55,9 +55,9 @@ const yan = {
 </p>  
  
 
-<br />
+
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=yanettr&show_icons=true&locale=en&layout=compact" alt="yan" /></p>
-<br />
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yanettr&" alt="yan" /></p>
 
 
