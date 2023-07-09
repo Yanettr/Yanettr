@@ -60,3 +60,13 @@ const yan = {
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yanettr&" alt="yan" /></p>
 
 
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yanettr&show_icons=true&theme=algolia"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanettr&layout=compact&theme=algolia"/></a>
+
+
+
