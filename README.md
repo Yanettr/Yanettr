@@ -12,8 +12,8 @@
 const yan = {
   currentFocus: "Front end Developer and teacher of children",
   code: ["Javascript", "HTML5", "CSS"],
-  tools: ["Git", "Github", "Firebase", "Figma", "Bootstrap5", "Trello"],
-  architecture: ["Progressive web applications", "Single page applications"],
+  tools: ["Git", "Github", "Firebase", "Figma", "Bootstrap5", "Trello", "Jira"],
+  architecture: [ "Single page applications", "React"],
   areas: ["Fronted", " Backend"],
   challenge: "I love learning something new every day.",
 };
