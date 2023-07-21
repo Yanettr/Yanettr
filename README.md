@@ -14,7 +14,7 @@ const yan = {
   code: ["Javascript", "HTML5", "CSS"],
   tools: ["Git", "Github", "Firebase", "Figma", "Bootstrap5", "Trello"],
   architecture: ["Progressive web applications", "Single page applications"],
-  areas: ["Websites", "Artificial Intelligence"],
+  areas: ["Fronted", " Backend"],
   challenge: "I love learning something new every day.",
 };
 
