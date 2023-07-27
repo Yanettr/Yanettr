@@ -30,7 +30,8 @@ const yan = {
 
 <br />
 
-<h3 align="center"><samp>  Find me on </samp></h3>
+
+<h3 align="center"><samp>  🌐 Socials: </samp></h3>
 <br />
 <div align="center">
   <!-- Gmail -->
