@@ -50,7 +50,7 @@ const yan = {
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yan1178) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yanettr) 
 
----
+
 <h3 align="center"><samp>  📊 GitHub Stats </samp></h3>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanettr&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br />
