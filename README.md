@@ -40,10 +40,7 @@ const yan = {
 <br />
 </div>
 
-<br />
-
 <h3 align="center"><samp>  🌐 Socials: </samp></h3>
-<br />
 <div align="center">
   <!-- Gmail -->
   <a href="mailto:yanettr2023@gmail.com" target="_blank">
