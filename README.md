@@ -45,7 +45,7 @@ const yan = {
  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-the-badge&logo=Trello&logoColor=white)
 
 ```
-<h3 align="center"><samp>  Socials </samp></h3>
+ Socials
 ```
 ![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yan1178) 
