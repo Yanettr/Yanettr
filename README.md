@@ -42,18 +42,11 @@ const yan = {
 
 <h3 align="center"><samp>  🌐 Socials: </samp></h3>
 <div align="center">
-  <!-- Gmail -->
+
   <a href="mailto:yanettr2023@gmail.com" target="_blank">
     <img alt="Gmail"
           src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
   </a>
-  <!-- Linkedin -->
-  <a href="https://www.linkedin.com/in/yanet-toribio/" target="_blank">
-    <img alt="Linkedin"
-          src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-  </a>	  	  
-
-
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yan1178) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yanettr) 
 </div>
 
