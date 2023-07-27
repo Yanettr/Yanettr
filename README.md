@@ -5,10 +5,10 @@
 <h3 align="center"><samp> Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"/>!, I'm Yanet (Yan) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">  </samp></h3>
 
 <p align="center"> <samp> A Front-end Developer student from Laboratoria's Bootcamp </samp></p>
--------------------
-* 🌍  Vivo en Perú 
-* ✉️  Puedes contactarme en [yanettr2023@gmail.com](mailto:yanettr2023@gmail.com)
-* 🧠  Estoy aprendiendo una nueva tecnología.
+
+🌍  Vivo en Perú <br/>
+✉️  Puedes contactarme en [yanettr2023@gmail.com](mailto:yanettr2023@gmail.com)<br/>
+🧠  Estoy aprendiendo una nueva tecnología.
 
 <br />
 
