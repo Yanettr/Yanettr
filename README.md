@@ -19,9 +19,9 @@ const yan = {
 };
 
 ```
-<div align='center'>
+
 ```
-Techs:
+                                                        Techs:
 ```
 
 <div align='center'>
