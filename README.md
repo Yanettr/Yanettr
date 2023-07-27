@@ -69,7 +69,7 @@ const yan = {
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Yanettr&style=for-the-badge&color=DFD947&labelColor=EEE517&logo=star/custom-icon-badges.demolab.com/github"/></a>
 </p>  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanettr&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br />
+<h3 align="center"><samp> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanettr&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact) </samp></h3>
 ![](https://github-readme-stats.vercel.app/api?username=Yanettr&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yanettr&theme=dracula&hide_border=true)
 
