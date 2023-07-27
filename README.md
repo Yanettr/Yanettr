@@ -38,11 +38,8 @@ const yan = {
 
   
 <br />
-</div>
-
 <h3 align="center"><samp>  🌐 Socials: </samp></h3>
 <div align="center">
-
   <a href="mailto:yanettr2023@gmail.com" target="_blank">
     <img alt="Gmail"
           src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
