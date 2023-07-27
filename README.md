@@ -62,15 +62,6 @@ const yan = {
 
 <h3 align="center"><samp>  📊 GitHub Stats </samp></h3>
 <p align="center">
-
-https://github.com/Yanettr
-
-![](https://github-readme-stats.vercel.app/api?username=Yanettr&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yanettr&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanettr&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-  
   <a href="https://github.com/Yanettr">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Yanettr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
  <a href="https://github.com/Yanettr?tab=followers">
@@ -79,12 +70,8 @@ https://github.com/Yanettr
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Yanettr&style=for-the-badge&color=DFD947&labelColor=EEE517&logo=star/custom-icon-badges.demolab.com/github"/></a>
 </p>  
 
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yanettr&show_icons=true&theme=algolia"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanettr&layout=compact&theme=algolia"/></a>
-
-
-
+![](https://github-readme-stats.vercel.app/api?username=Yanettr&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yanettr&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanettr&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
