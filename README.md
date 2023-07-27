@@ -36,14 +36,12 @@ const yan = {
   ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) 
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-the-badge&logo=firebase)
- 
- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
- ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
- ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) 
- ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
- ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) 
- ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+ ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-the-badge&logo=npm&logoColor=white) 
+ ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-the-badge&logo=Canva&logoColor=white) 	
+ ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat-the-badge&logo=babel&logoColor=black) 
+ ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-the-badge&logo=jira&logoColor=white) 
+ ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat-the-badge&logo=Prezi&logoColor=white) 
+ ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-the-badge&logo=Trello&logoColor=white)
 
   
 <br />
