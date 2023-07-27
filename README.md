@@ -6,7 +6,7 @@
 
 <p align="center"> <samp> A Front-end Developer student from Laboratoria's Bootcamp </samp></p>
 * 🌍  Vivo en Perú 
-* ✉️  Puedes contactarme en [indira.mond23@gmail.com](mailto:indira.mond23@gmail.com)
+
 * 🧠  Estoy aprendiendo un nuevo framework
 
 <br />
