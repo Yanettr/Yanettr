@@ -66,3 +66,8 @@ const yan = {
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yanettr&theme=dracula&hide_border=true)
 
 
+
+![](https://github-readme-stats.vercel.app/api?username=Yanettr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yanettr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanettr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
