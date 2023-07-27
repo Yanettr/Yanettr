@@ -20,7 +20,7 @@ const yan = {
 
 ```
 ```
-<h3 align="center"><samp>  **Techs** </samp></h3>
+<h3 align="center"><samp> Techs</samp></h3>
 ```
 <div align='center'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width='30' />
@@ -45,14 +45,14 @@ const yan = {
  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-the-badge&logo=Trello&logoColor=white)
 
 ```
-<h3 align="center"><samp>  ** Socials** </samp></h3>
+<h3 align="center"><samp>  Socials </samp></h3>
 ```
 ![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yan1178) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yanettr) 
 
 ```
-<h3 align="center"><samp>   **GitHub Stats** </samp></h3>
+<h3 align="center"><samp>   GitHub Stats </samp></h3>
 ```
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanettr&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br />
 ![](https://github-readme-stats.vercel.app/api?username=Yanettr&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
