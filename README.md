@@ -6,9 +6,9 @@
 
 <p align="center"> <samp> A Front-end Developer student from Laboratoria's Bootcamp </samp></p>
 
-🌍  Vivo en Perú <br/>
-✉️  Puedes contactarme en [yanettr2023@gmail.com](mailto:yanettr2023@gmail.com)<br/>
-🧠  Estoy aprendiendo una nueva tecnología.
+⚡  Vivo en Perú <br/>
+⚡  Puedes contactarme en [yanettr2023@gmail.com](mailto:yanettr2023@gmail.com)<br/>
+⚡  Estoy aprendiendo una nueva tecnología.
 
 <br />
 
@@ -53,9 +53,10 @@ const yan = {
 ```
 Socials:
 ```
-![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yan1178) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yanettr) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yanettr)
+<p align="left"> <a href="https://github.com/Yanettr" target="_blank" rel="noreferrer"><img background-color="white" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-512.png" width="32" height="32" /></a> <a href="https:// " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ```
 GitHub Stats: 
