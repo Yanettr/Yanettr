@@ -52,14 +52,6 @@ const yan = {
 
 
 <h3 align="center"><samp>  📊 GitHub Stats </samp></h3>
-<p align="center">
-  <a href="https://github.com/Yanettr">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Yanettr?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
- <a href="https://github.com/Yanettr?tab=followers">
- <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Yanettr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <a href="https://github.com/Yanettr/Simple-View-Counter">   
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Yanettr&style=for-the-badge&color=DFD947&labelColor=EEE517&logo=star/custom-icon-badges.demolab.com/github"/></a>
-</p>  
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanettr&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br />
 ![](https://github-readme-stats.vercel.app/api?username=Yanettr&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -69,8 +61,6 @@ const yan = {
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yanettr&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yanettr&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yanettr&icon=0&color=0)](https://visitcount.itsvg.in)
