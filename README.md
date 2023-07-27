@@ -70,7 +70,7 @@ const yan = {
 </p>  
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanettr&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
-![](https://github-readme-stats.vercel.app/api?username=Yanettr&theme=dracula&hide_border=true&include_all_commits=true&count_private=true) <br />
+![](https://github-readme-stats.vercel.app/api?username=Yanettr&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yanettr&theme=dracula&hide_border=true)
 
 
