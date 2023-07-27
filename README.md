@@ -53,12 +53,12 @@ const yan = {
 ```
 Socials:
 ```
-<div align='center'>
-<p align="left"> <a href="https://github.com/Yanettr" target="_blank" rel="noreferrer"><img background-color="white" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-512.png" width="32" height="32" /></a> <a href="https:// " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<a href="https://https://www.linkedin.com/in/yanettr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+![]<p align="left"> <a href="https://github.com/Yanettr" target="_blank" rel="noreferrer"><img background-color="white" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-512.png" width="32" height="32" /></a> <a href="https:// " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-</div>
+![]<a href="https://https://www.linkedin.com/in/yanettr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+
 ```
 GitHub Stats: 
 ```
