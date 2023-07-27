@@ -62,7 +62,8 @@ GitHub Stats:
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yanettr&icon=1&color=3)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=Yanettr&icon=0&color=3)](https://visitcount.itsvg.in)
 
 
 
