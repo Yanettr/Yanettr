@@ -8,7 +8,7 @@
 
 ><samp> - Vivo en Perú.</samp> <br/>
 ><samp> - Puedes contactarme en [yanettr2023@gmail.com](mailto:yanettr2023@gmail.com)</samp><br/>
-><samp> - Estoy aprendiendo una nueva tecnología.</samp>
+
 
 <br />
 
