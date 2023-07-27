@@ -25,7 +25,7 @@ const yan = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width='30' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width='30' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='30' />
- 
+  
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) 
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
@@ -41,7 +41,6 @@ const yan = {
 </div>
 
 <br />
-
 
 <h3 align="center"><samp>  🌐 Socials: </samp></h3>
 <br />
@@ -69,10 +68,10 @@ const yan = {
    <a href="https://github.com/Yanettr/Simple-View-Counter">   
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Yanettr&style=for-the-badge&color=DFD947&labelColor=EEE517&logo=star/custom-icon-badges.demolab.com/github"/></a>
 </p>  
-
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanettr&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br />
 ![](https://github-readme-stats.vercel.app/api?username=Yanettr&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yanettr&theme=dracula&hide_border=true)
-
+</div>
 
 
