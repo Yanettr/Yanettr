@@ -6,9 +6,9 @@
 
 <p align="center"> <samp> A Front-end Developer student from Laboratoria's Bootcamp </samp></p>
 
-⚡  Vivo en Perú <br/>
-⚡  Puedes contactarme en [yanettr2023@gmail.com](mailto:yanettr2023@gmail.com)<br/>
-⚡  Estoy aprendiendo una nueva tecnología.
+<samp> Vivo en Perú</samp> <br/>
+<samp> Puedes contactarme en [yanettr2023@gmail.com](mailto:yanettr2023@gmail.com)</samp><br/>
+<samp> Estoy aprendiendo una nueva tecnología.</samp>
 
 <br />
 
