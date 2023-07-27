@@ -19,7 +19,7 @@ const yan = {
 };
 
 ```
-
+<div align='center'>
 ```
 Techs:
 ```
