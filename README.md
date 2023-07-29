@@ -15,10 +15,10 @@
 ```javascript
 const yan = {
   currentFocus: "Front end Developer and teacher of children",
-  code: ["Javascript", "HTML5", "CSS"],
+  code: ["Javascript", "HTML5", "CSS",]"React",
   tools: ["Git", "Github", "Firebase", "Figma", "Bootstrap5", "Trello", "Jira"],
   architecture: [ "Single page applications", "React"],
-  areas: ["Fronted", " Backend"],
+  areas: ["Fronted"],
   challenge: "I love learning something new every day.",
 };
 
