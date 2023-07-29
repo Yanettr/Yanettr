@@ -15,7 +15,7 @@
 ```javascript
 const yan = {
   currentFocus: "Front end Developer and teacher of children",
-  code: ["Javascript", "HTML5", "CSS",]"React",
+  code: ["Javascript", "HTML5", "CSS",]
   tools: ["Git", "Github", "Firebase", "Figma", "Bootstrap5", "Trello", "Jira"],
   architecture: [ "Single page applications", "React"],
   areas: ["Fronted"],
