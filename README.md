@@ -8,6 +8,7 @@
 
 ><samp> - I live in Perú.</samp> <br/>
 ><samp> - You can contact me [yanettr2023@gmail.com](mailto:yanettr2023@gmail.com)</samp><br/>
+><samp> - I’m currently learning REACT ⚛️ </samp><br/>
 
 
 <br />
