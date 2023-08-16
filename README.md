@@ -1,3 +1,7 @@
+[![](https://visitcount.itsvg.in/api?id=Yanettr&icon=6&color=1)](https://visitcount.itsvg.in)
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yanettr.Yanettr">
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Coders!+👋;This+is+Yanet....;Nice+to+meet+you!&center=true&size=30">
