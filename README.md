@@ -71,9 +71,6 @@ GitHub Stats:
 
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=Yanettr&icon=6&color=1)](https://visitcount.itsvg.in)
-
-
-<h2 align="center"> :sunglasses: Repositories 👨‍💻</h2>
+<h2 align="center"> Repositories :sunglasses: </h2>
 
