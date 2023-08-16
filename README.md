@@ -1,12 +1,12 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yanettr.Yanettr" style="background-color: #00FFFF;">
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Coders!+👋;This+is+Yanet....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
+<p align="center"><a href="https://Yanettr.github.io"><img width="80%" src="./assets/yane-gup.github.io.png" /></a></p>
 
 
 <br />
