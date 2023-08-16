@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=392E01&size=26&lines=%C2%A1Hola!+coders...+Soy+Yanet+✨+✨)](https://git.io/typing-svg)
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Yane+call+me +Yan....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 <br />
 # 💫 About Me:
 
