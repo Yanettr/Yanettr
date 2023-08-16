@@ -63,7 +63,7 @@ const yan = {
 
 
 ```
-GitHub Stats: 
+GitHub Stats:
 ```
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanettr&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br />
 ![](https://github-readme-stats.vercel.app/api?username=Yanettr&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -71,6 +71,3 @@ GitHub Stats:
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yanettr&icon=6&color=1)](https://visitcount.itsvg.in)
-<h2 align="center"> Repositories :sunglasses: </h2>
-
