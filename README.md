@@ -6,8 +6,6 @@
   </a>
 </h1>
 
-<p align="center"><a href="https://Yanettr.github.io"><img width="80%" src="./assets/yane-gup.github.io.png" /></a></p>
-
 
 <br />
 # 💫 About Me:
