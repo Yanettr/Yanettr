@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=392E01&size=26&lines=%C2%A1Hola!+Soy+Yanet+%F0%9F%90%AD✨)](https://git.io/typing-svg)
 
+https://user-images.githubusercontent.com/129693341/261346239-5ad7236c-3fc8-42e8-9340-586c67bdf2cd.png
 # 💫 About Me:
 
 <h3 align="center"><samp>&gt; Hi there, I'm Yanet (Yan) 👋 </samp></h3>
