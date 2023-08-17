@@ -1,4 +1,4 @@
-(![banner 05](https://github.com/Yanettr/Yanettr/assets/129693341/8ee03cd8-7a1a-48c1-9501-b0306206d7c4)
+![banner 05](https://github.com/Yanettr/Yanettr/assets/129693341/8ee03cd8-7a1a-48c1-9501-b0306206d7c4
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yanettr.Yanettr" style="background-color: #00FFFF;">
 
