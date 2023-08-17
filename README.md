@@ -1,6 +1,10 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yanettr.Yanettr" style="background-color: #00FFFF;">
-![GithubProfile banner-01](![image](https://github.com/Yanettr/Yanettr/assets/129693341/f107fe73-e448-4ac1-9201-652201328106)
+
+<p align="center">
+ <img  width="800" height="400" src="![image](https://github.com/Yanettr/Yanettr/assets/129693341/f83b1cc9-2f09-4f20-810c-005eb3387ad2)
+">
+</p>
 
 
 <h1 align="center">
