@@ -1,5 +1,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yanettr.Yanettr" style="background-color: #00FFFF;">
+![image](https://github.com/Yanettr/Yanettr/assets/129693341/d3f6a21e-3e76-4aca-8c26-f28d3369c5d6)
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Coders!+👋;This+is+Yanet....;Nice+to+meet+you!&center=true&size=30">
