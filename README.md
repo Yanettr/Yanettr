@@ -68,11 +68,4 @@ GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yanettr&theme=city_light&hide_border=false)<br/>
 
 
-
-<p align="center">
- <img  width="800" height="400" src="![image](https://github.com/Yanettr/Yanettr/assets/129693341/f83b1cc9-2f09-4f20-810c-005eb3387ad2)
-">
-</p>
-
-
 ---
