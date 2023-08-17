@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Coders!+👋;This+is+Yanet....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+![Sin título](https://github.com/Yanettr/Yanettr/assets/129693341/4c578fda-6800-405c-a81c-257dea2c66c7)
 
 
 
