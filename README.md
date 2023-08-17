@@ -1,5 +1,6 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yanettr.Yanettr" style="background-color: #00FFFF;">
+![GithubProfile banner-01](![image](https://github.com/Yanettr/Yanettr/assets/129693341/f107fe73-e448-4ac1-9201-652201328106)
 
 
 <h1 align="center">
