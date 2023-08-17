@@ -6,6 +6,7 @@
   </a>
 </h1>
 
+<h1 align="center" style="color: blue;">Hello there! My name is Cris Huaira. 👋🤓</h1>
 
 <br />
 # 💫 About Me:
