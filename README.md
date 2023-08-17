@@ -14,10 +14,6 @@
 <br />
 # 💫 About Me:
 
-<h3 align="center"><samp> Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"/>!, I'm Yanet (Yan) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">  </samp></h3>
-
-<p align="center"> <samp> A Front-end Developer student from Laboratoria's Bootcamp </samp></p>
-
 ><samp> - I live in Perú.</samp> <br/>
 ><samp> - You can contact me [yanettr2023@gmail.com](mailto:yanettr2023@gmail.com)</samp><br/>
 ><samp> - I’m currently learning REACT ⚛️ </samp><br/>
