@@ -15,7 +15,8 @@
 
 ><samp> - I live in Perú.</samp> <br/>
 ><samp> - You can contact me [yanettr2023@gmail.com](mailto:yanettr2023@gmail.com)</samp><br/>
-><samp> - I’m currently learning REACT ⚛️ </samp><br/>
+><samp> - I’m currently learning Python ![image](https://github.com/Yanettr/Yanettr/assets/129693341/bf31efb5-491b-4cd6-ba92-721fef3316aa)
+ </samp><br/>
 
 
 <br />
